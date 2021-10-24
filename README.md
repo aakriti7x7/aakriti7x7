@@ -8,8 +8,8 @@
 
 ```python
 Name =  "Aakriti"
-Interests = ["Developing", "Competitive Coding for fun", "Anime"]
-Languages = ["C++", "C", "Python", "HTML", "JavaScript", "CSS"]
+Interests = ["Developing", "Competitive Coding for not so fun", "Anime"]
+Languages = ["C++", "C", "Python", "JavaScript"]
 ```
 
 <br>
